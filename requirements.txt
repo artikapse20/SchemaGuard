@@ -1,0 +1,4 @@
+pyarrow>=18.0
+pandas>=2.2
+duckdb>=1.1
+pytest>=8.0
